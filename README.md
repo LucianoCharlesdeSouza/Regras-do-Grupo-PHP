@@ -9,10 +9,8 @@ Repositório apenas para conter as regras de boa convivência do grupo
 # 6 - Proíbido falar e/ou postar quaisquer assuntos fora do contexto <br />
 ( Desenvolvimento Web com: Html, PHP, JavaScript, JQuery, Css, Ajax, SGBD's e afins )!
 # 7 - Proíbido entrar em discussão ou comentários longos sobre assuntos irrelevantes tais como:
-<br />
-( * qual IDE ou EDITOR é o melhor? => isso é uma viadagem, pois se vamos compartilhar conhecimento sobre a regra (6),
- sabemos que linguagem interpretada pode ser escrita até no (bloco de notas) ,<br />
- * ou qualquer outro assunto que fuja do contexto a regra (6) mesmo que seja apenas de opinião própria. )!
+<br />( * qual IDE ou EDITOR é o melhor? => isso é uma viadagem, pois se vamos compartilhar conhecimento sobre a regra (6),
+ sabemos que linguagem interpretada pode ser escrita até no (bloco de notas) ,<br />* ou qualquer outro assunto que fuja do contexto a regra (6) mesmo que seja apenas de opinião própria. )
 # 8 - SEMPRE printar no grupo ou colar o script no pastebin e/ou afins para apresentar os erros aos membros!
 # 9 - SEMPRE postar a resposta obtida para a sua dúvida caso não tenha obtido ela no grupo <br />
   ( pois assim como você, outros poderão ter a mesma dúvida e podem não ter conseguido uma resposta satisfatória!).
