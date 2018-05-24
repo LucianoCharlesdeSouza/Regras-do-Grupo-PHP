@@ -18,4 +18,6 @@ Repositório apenas para conter as regras de boa convivência do grupo
 # 11 - QUESTIONE ATÉ TER ENTENDIDO CORRETAMENTE!
 # 12 - SEJA PARTICIPATIVO!
 # 13 - O GRUPO SERÁ APENAS PARA REALMENTE COMPARTILHAR, ENSINAR E APRENDER SOBRE OS ITENS DA REGRA (6)!
-# 14 - O NÃO CUMPRIMENTO DAS REGRAS 1, 2, 3, 4 RESULTARÁ EM BANIMENTO IMEDIATO OU TÃO LOGO FOR VISUALIZADO PELOS ADMINISTRADORES!
+# 14 - Postagens como (self, 'uma viadagem', aúdio,vídeo,imagem,texto,link não relevante, será motivo de GANCHO de ( 05 dias úteis), e apenas será reintegrado ao grupo após os 05 dias e SE o usuário suspenso LEMBRAR para ser reintegrado novamente!
+# 15 - O usuário que reincidir no GANCHO, será BANIDO permanentemente!
+# 16 - O NÃO CUMPRIMENTO DAS REGRAS 1, 2, 3, 4 RESULTARÁ EM BANIMENTO IMEDIATO OU TÃO LOGO FOR VISUALIZADO PELOS ADMINISTRADORES!
